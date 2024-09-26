@@ -1,5 +1,12 @@
 # PowerBI Dashboard for Beauty Supply Chain Management
 ![1](https://github.com/user-attachments/assets/f819b305-497a-46ca-927b-2b131b455eba)
+![2](https://github.com/user-attachments/assets/83ad63c1-a479-434e-bda9-e03efb21370a)
+![3](https://github.com/user-attachments/assets/ef35d940-0228-49a4-8b13-22b3bef15772)
+![4](https://github.com/user-attachments/assets/a59adda8-d0b0-4446-8f33-6da1af87751e)
+![5](https://github.com/user-attachments/assets/01bbc022-d17e-4df1-a3d2-0d795ee48d00)
+![6](https://github.com/user-attachments/assets/b74edb62-cc87-4b1f-a3d9-3929ba9b5d0c)
+![7](https://github.com/user-attachments/assets/5fe85ee2-46dd-4b78-9bb2-84d1412d57e7)
+![8](https://github.com/user-attachments/assets/5319daff-3e28-460e-99b0-ae3128c9f4a4)
 
 ## Overview
 This project integrates advanced machine learning (ML) models with Microsoft Power BI to enhance business intelligence capabilities beyond what Power BI currently offers. It focuses on demand forecasting, inventory optimization, and supplier performance monitoring within the beauty supply chain.
